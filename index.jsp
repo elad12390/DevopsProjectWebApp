@@ -31,6 +31,7 @@
             out.println("Today's date is: "+today);
             %>
         </h2>
+        <p>Cool!</p>
     </main>
 </body>
 
